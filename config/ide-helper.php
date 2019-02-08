@@ -13,7 +13,7 @@ return [
 
     'filename'  => '.phpstorm.helper',
     'format'    => 'php',
-    
+
     'meta_filename' => '.phpstorm.meta.php',
 
     /*
@@ -82,7 +82,6 @@ return [
     'model_locations' => [
         'app/Models',
     ],
-
 
     /*
     |--------------------------------------------------------------------------
